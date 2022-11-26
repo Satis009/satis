@@ -1,0 +1,5 @@
+{
+	"ip":"School680.aternos.me",
+	"port": "23224",
+	"name": "bot"
+}
